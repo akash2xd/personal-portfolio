@@ -23,5 +23,5 @@ export const personalData = {
   devUsername: "GHOST 005",
   leetcode: "https://leetcode.com/u/akash2op/",
   resume:
-    "https://drive.google.com/file/d/1q9N_G-GxSXzmgYz0CGKrmQc9aIwEZKhO/view?usp=sharing",
+    "https://drive.google.com/file/d/1peMDMIYpoGeJlVMVxWzApbIn2X3B8ibK/view?usp=sharing",
 };
